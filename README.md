@@ -17,3 +17,5 @@ or
 npm i
 npm start
 ```
+
+this project actually uses yarn but whatever
