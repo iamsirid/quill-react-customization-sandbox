@@ -7,6 +7,13 @@ trying to master QuillJs
 just like normal create-react-app app
 
 ```
+yarn
+yarn start
+```
+
+or
+
+```
 npm i
 npm start
 ```
